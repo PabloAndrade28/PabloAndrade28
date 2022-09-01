@@ -1,5 +1,5 @@
 - 🔭 Front-End
-- 🌱 Atualmente estou estudando back-end.
+- 🌱 Desenvolvedor Web Full Stack
 - 😄 Ele/dele 
 
 
